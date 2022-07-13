@@ -7,6 +7,78 @@
       "val": 1000000,
       "name": "James",
       "zipcode": 26452
+    },
+    {
+      "id": 2,
+      "lat": 44.26951158614796,
+      "lng": -91.38882637023927,
+      "val": 2000000,
+      "name": "Robert",
+      "zipcode": 54242
+    },
+    {
+      "id": 3,
+      "lat": 40.34654412118006,
+      "lng": -76.5966796875,
+      "val": 3000000,
+      "name": "John",
+      "zipcode": 56256
+    },
+    {
+      "id": 5,
+      "lat": 44.5,
+      "lng": -100,
+      "val": 1000000,
+      "name": "Michael",
+      "zipcode": 56465
+    },
+    {
+      "id": 6,
+      "lat": 41.742325,
+      "lng": -71.742332,
+      "val": 1500000,
+      "name": "Suraj",
+      "zipcode": 36545
+    },
+    {
+      "id": 7,
+      "lat": 44,
+      "lng": -120.5,
+      "val": 1200000,
+      "name": "Richard",
+      "zipcode": 87645
+    },
+    {
+      "id": 8,
+      "lat": 43,
+      "lng": -75,
+      "val": 1100000,
+      "name": "Joseph",
+      "zipcode": 56453
+    },
+    {
+      "id": 9,
+      "lat": 44,
+      "lng": -71.5,
+      "val": 1400000,
+      "name": "Thomas",
+      "zipcode": 53458
+    },
+    {
+      "id": 10,
+      "lat": 41.5,
+      "lng": -100,
+      "val": 1600000,
+      "name": "Charles",
+      "zipcode": 57357
+    },
+    {
+      "id": 11,
+      "lat": 38.5,
+      "lng": -98,
+      "val": 1200000,
+      "name": "Christopher",
+      "zipcode": 45645
     }
   ]
 }
